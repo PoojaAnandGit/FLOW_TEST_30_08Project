@@ -7,8 +7,3 @@ packages:
   gitUrl: https://github.com/PoojaAnandGit
   gitUsername: PoojaAnandGit
   gitBranch: main
-- name: CustomPackage
-  gitServerName: poanTestGit
-  gitUrl: https://github.com/Munatri
-  gitUsername: PoojaAnandGit
-  gitBranch: main
